@@ -15,4 +15,6 @@ def link
   
   puts phrase
 end 
+"It's Dangerous To Go Alone! Take This."
+
 
